@@ -1,0 +1,3 @@
+A engenharia de software envolve metodologias para o desenvolvimento eficiente de sistemas.
+Modelos ágeis priorizam entregas rápidas e adaptabilidade.
+A busca vetorial permite encontrar semelhanças entre documentos de forma semântica.
